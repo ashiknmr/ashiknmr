@@ -23,7 +23,7 @@ I'm a passionate **web developer** with a knack for creating intuitive, user-fri
 ---
 
 ## 🤝 Connect With Me  
-- **LinkedIn:** [Your LinkedIn Profile]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/ashik-s-40a5031ba/))
+- **LinkedIn:** [Your LinkedIn Profile]([(https://www.linkedin.com/in/ashik-s-40a5031ba/)](https://www.linkedin.com/in/ashik-s-40a5031ba/))
 
 ---
 
