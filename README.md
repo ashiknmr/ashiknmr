@@ -12,20 +12,7 @@ I'm a passionate **web developer** with a knack for creating intuitive, user-fri
 - **Languages & Frameworks:** HTML5, CSS, JavaScript, React, Node.js  
 - **Tools & Platforms:** Git, WordPress, Shopify, Figma, Adobe XD    
 - **Other Skills:** SEO, Digital Marketing, Market Analysis  
-
----
-
-## 💻 Projects  
-Here are some of my favorite projects:  
-
-### [E-commerce Store](https://github.com/yourusername/ecommerce-store)  
-A fully functional online store featuring product listings, a shopping cart, and a secure payment gateway.  
-
-### [Portfolio Website](https://github.com/yourusername/portfolio-website)  
-My personal portfolio showcasing my skills, projects, and contact details.  
-
-### [Dynamic Blog Platform](https://github.com/yourusername/dynamic-blog-platform)  
-A blog application where users can create, edit, and delete posts, with an interactive admin dashboard.  
+  
 
 ---
 
@@ -36,8 +23,7 @@ A blog application where users can create, edit, and delete posts, with an inter
 ---
 
 ## 🤝 Connect With Me  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourusername)  
-- **Portfolio:** [Your Portfolio](https://yourportfolio.com)  
+- **LinkedIn:** [Your LinkedIn Profile]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/ashik-s-40a5031ba/))
 
 ---
 
